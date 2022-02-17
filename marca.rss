@@ -1,0 +1,53 @@
+<rss version="2.0">
+<channel>
+<title>Real Madrid // marca</title>
+<link>http://www.marca.com</link>
+<description>Real Madrid // marca</description>
+<language>es</language>
+<copyright>(c) 2022, Unidad Editorial, S.A.</copyright>
+<pubDate>Thu, 17 Feb 2022 15:40:13 +0100</pubDate>
+<lastBuildDate>Thu, 17 Feb 2022 15:40:13 +0100</lastBuildDate>
+<category>News & Politics</category>
+<ttl>60</ttl>
+<atom:link href="https://e00-marca.uecdn.es/rss/futbol/real-madrid.xml" rel="self" type="application/rss+xml"/>
+<image>
+<title>Real Madrid // marca</title>
+<url>http://estaticos.marca.com/imagen/canalima144.gif</url>
+<link>https://www.marca.com</link>
+<width>144</width>
+<height>24</height>
+<description>marca.com</description>
+</image>
+<item>
+<title>
+Noticias deportivas hoy 17 de febrero, última hora: El Madrid acelera por Haaland y el Atlético quiere un central de 30 millones
+</title>
+<description>
+El día a día trae muchos noticias relevantes en el mundo del deporte&nbsp;<a href="https://www.marca.com/futbol/2022/02/17/620dcf20268e3eda0e8b4591.html"> Leer </a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/futbol/real-madrid.xml" alt=""/>
+</description>
+<dc:creator>ENRIQUE CORBELLA, ÁNGEL RODRÍGUEZ</dc:creator>
+<link>
+https://www.marca.com/futbol/2022/02/17/620dcf20268e3eda0e8b4591.html
+</link>
+<category>Atlético de Madrid</category>
+<category>FC Barcelona</category>
+<category>Real Madrid</category>
+<category>Chelsea FC</category>
+<category>Bayern de Múnich</category>
+<category>Borussia Dortmund</category>
+<category>Juventus de Turín</category>
+<category>Erling Haaland</category>
+<category>Florentino Pérez Rodríguez</category>
+<media:description type="html">
+El día a día trae muchos noticias relevantes en el mundo del deporte
+</media:description>
+<media:title type="html">ÚLTIMA HORA</media:title>
+<media:content url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/02/07/16442302078686.jpg" medium="image" width="1200" height="675"/>
+<media:thumbnail url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/02/07/16442302078686_150x0.jpg" width="150" height="84"/>
+<guid>
+https://www.marca.com/futbol/2022/02/17/620dcf20268e3eda0e8b4591.html
+</guid>
+<pubDate>Thu, 17 Feb 2022 15:37:32 +0100</pubDate>
+</item>
+</channel>
+</rss>
